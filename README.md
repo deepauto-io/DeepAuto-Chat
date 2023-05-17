@@ -1,6 +1,6 @@
 # DeepAuto Chat
 
-Welcome to **[DeepAuto Chat]** an AI chat application based on **GPT-4**! Our intelligent chat assistant provides you with an enhanced conversational experience. Whether you need life advice, assistance with studying, or simply want to have a relaxed and enjoyable conversation, our AI chat assistant is here to offer personalized suggestions and answers tailored to your needs. Furthermore, the application contains a vast collection of templates spanning various industries, allowing for greater imagination and creative inspiration. Join us now and embark on an unprecedented era of intelligent chat!
+**DeepAuto Chat** an AI chat application based on **GPT-4**! Our intelligent chat assistant provides you with an enhanced conversational experience. Whether you need life advice, assistance with studying, or simply want to have a relaxed and enjoyable conversation, our AI chat assistant is here to offer personalized suggestions and answers tailored to your needs. Furthermore, the application contains a vast collection of templates spanning various industries, allowing for greater imagination and creative inspiration. Join us now and embark on an unprecedented era of intelligent chat!
 
 What's more, **DeepAuto Chat is free 💰 to download**! Don't hesitate, download it from the App Store now and try it out!
 
@@ -10,10 +10,10 @@ What's more, **DeepAuto Chat is free 💰 to download**! Don't hesitate, downloa
 *(or searching "DeepAuto Chat" on App Store if the above link doesn't work for you.)*
 
 
-![deepauto](https://github.com/DeepautoChat/deepauto.chat/blob/master/logo/screen-1.jpg)
+![deepauto_front](https://github.com/DeepautoChat/deepauto.chat/blob/master/logo/screen_front.png)
 
 
-![deepauto](https://github.com/DeepautoChat/deepauto.chat/blob/master/logo/screen-2.jpg)
+![deepauto_back](https://github.com/DeepautoChat/deepauto.chat/blob/master/logo/screen_back.png)
 
 ## Download DeepAuto Chat on Android
 

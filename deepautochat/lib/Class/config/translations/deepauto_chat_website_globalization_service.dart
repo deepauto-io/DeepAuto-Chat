@@ -21,7 +21,7 @@ class DeepautoChatWebsitesGlobalizationService extends Translations {
 
   static const fallbackLocale = Locale('en');
 
-  // supported languages fonts family (must be in assets & pubspec yaml) or you can use google fonts
+  // supported languages fonts family (must be in logo & pubspec yaml) or you can use google fonts
   static Map<String, String?> supportedLanguagesFontsFamilies = {
     'en': GoogleFonts.robotoMono().fontFamily,
     'zh': GoogleFonts.robotoMono().fontFamily,

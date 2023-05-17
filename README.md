@@ -13,7 +13,8 @@ What's more, **DeepAuto Chat is free 💰 to download**! Don't hesitate, downloa
 ![deepauto_front](https://github.com/DeepautoChat/deepauto.chat/blob/master/logo/screen_front.png)
 
 
-![deepauto_back](https://github.com/DeepautoChat/deepauto.chat/blob/master/logo/screen_back.png)
+
+![screen_info](https://github.com/DeepautoChat/deepauto.chat/blob/master/logo/screen_info.png)
 
 ## Download DeepAuto Chat on Android
 

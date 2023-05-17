@@ -13,7 +13,9 @@ What's more, **DeepAuto Chat is free 💰 to download**! Don't hesitate, downloa
 ![deepauto_front](https://github.com/DeepautoChat/deepauto.chat/blob/master/logo/screen_front.png)
 
 
-*(it contains a large number of AI templates, and it can also have a perfect dialogue with GPT-4.)*
+---
+
+**it contains a large number of AI templates, and it can also have a perfect dialogue with GPT-4.**
 
 ![screen_info](https://github.com/DeepautoChat/deepauto.chat/blob/master/logo/screen_info.png)
 

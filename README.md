@@ -26,7 +26,7 @@ Coming soon, please stay tuned.
 
 ## Download DeepAuto Chat on Mac
 
-[![Download on the App Store](https://github.com/DeepautoChat/deepauto.chat/blob/master/logo/download.svg)](https://apps.apple.com/cn/app/deepauto-chat-%E6%B7%B1%E5%BA%A6%E8%87%AA%E5%8A%A8%E5%8C%96ai%E5%AF%B9%E8%AF%9D%E6%9C%BA%E5%99%A8%E4%BA%BA/id6448849923)
+You can download the [DeepAuto Chat Macos version in the Apple Store.](https://apps.apple.com/cn/app/deepauto-chat-%E6%B7%B1%E5%BA%A6%E8%87%AA%E5%8A%A8%E5%8C%96ai%E5%AF%B9%E8%AF%9D%E6%9C%BA%E5%99%A8%E4%BA%BA/id6448849923)
 
 ## Download DeepAuto Chat on Windows
 

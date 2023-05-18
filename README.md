@@ -1,4 +1,4 @@
-# DeepAuto Chat-深度自动化AI对话机器人 
+# DeepAuto Chat-Deep Automation AI Dialogue Robot
 
 **DeepAuto Chat** an AI chat application based on **GPT-4**! Our intelligent chat assistant provides you with an enhanced conversational experience. Whether you need life advice, assistance with studying, or simply want to have a relaxed and enjoyable conversation, our AI chat assistant is here to offer personalized suggestions and answers tailored to your needs. Furthermore, the application contains a vast collection of templates spanning various industries, allowing for greater imagination and creative inspiration. Join us now and embark on an unprecedented era of intelligent chat!
 

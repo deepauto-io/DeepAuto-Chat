@@ -1,9 +1,11 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import '../../../config/common/deepauto_chat_websites_common.dart';
+import '../../../config/translations/deepauto_chat_website_globalization_model.dart';
 import '../../common/deepauto_chat_url_unit.dart';
 
 class DeepautoChatHomePageMobileTitle extends StatelessWidget {
@@ -11,6 +13,7 @@ class DeepautoChatHomePageMobileTitle extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final size = MediaQuery.of(context).size;
     return Center(
       child: Column(
         children: [
@@ -19,7 +22,7 @@ class DeepautoChatHomePageMobileTitle extends StatelessWidget {
           ),
           InkWell(
             child: Text(
-              "Modern GUI for Etcd",
+              "DeepAuto Chat -深度自动化AI对话机器人",
               style: GoogleFonts.sourceSerifPro(
                 textStyle: const TextStyle(
                   fontWeight: FontWeight.w800,
@@ -33,13 +36,17 @@ class DeepautoChatHomePageMobileTitle extends StatelessWidget {
             height: 10,
           ),
           InkWell(
-            child: Text(
-              "Etcdwp is a modern Etcd GUI designed for Mac.\nIt is trustworthy in critical situations.",
-              style: GoogleFonts.sourceSerifPro(
-                textStyle: const TextStyle(
-                  fontWeight: FontWeight.w400,
-                  fontSize: 16,
-                  color: Color(0xB5000000),
+            child: SizedBox(
+              width: size.width * 0.7,
+              child: Text(
+                DeepautoChatWebsiteGlobalizationModel.deepAutoDes.tr,
+                textAlign: TextAlign.center,
+                style: GoogleFonts.sourceSerifPro(
+                  textStyle: const TextStyle(
+                    fontWeight: FontWeight.w500,
+                    fontSize: 18,
+                    color: Color(0xB5000000),
+                  ),
                 ),
               ),
             ),
@@ -108,12 +115,10 @@ class DeepautoChatHomePageMobileTitle extends StatelessWidget {
                 width: 20,
               ),
               InkWell(
-                onTap: () {
-                  DeepautoChatURLUnit.openDownloader();
-                },
+                onTap: () {},
                 child: Container(
                   decoration: BoxDecoration(
-                    color: const Color(0xFF1CDEC9),
+                    color: const Color(0xFF5582F8),
                     shape: BoxShape.rectangle,
                     borderRadius: BorderRadius.circular((8.0)),
                   ),
@@ -128,7 +133,51 @@ class DeepautoChatHomePageMobileTitle extends StatelessWidget {
                         const SizedBox(
                           height: 5,
                         ),
-                        Text("macOS 10.14+",
+                        Text("Windows",
+                            style: TextStyle(
+                              fontWeight: FontWeight.w600,
+                              fontSize: 10,
+                              color: const Color(0xffffffff),
+                              fontFamily: TextStyleConstant.fontFamily,
+                            )),
+                        const SizedBox(
+                          height: 2,
+                        ),
+                        Text("Download Free Trial",
+                            style: TextStyle(
+                              fontWeight: FontWeight.w600,
+                              fontSize: 12,
+                              color: const Color(0xffffffff),
+                              fontFamily: TextStyleConstant.fontFamily,
+                            ))
+                      ],
+                    ),
+                  ),
+                ),
+              ),
+              const SizedBox(
+                width: 20,
+              ),
+              InkWell(
+                onTap: () {},
+                child: Container(
+                  decoration: BoxDecoration(
+                    color: const Color(0xFF5582F8),
+                    shape: BoxShape.rectangle,
+                    borderRadius: BorderRadius.circular((8.0)),
+                  ),
+                  height: 44,
+                  width: 140,
+                  child: Padding(
+                    padding: const EdgeInsets.only(left: 8.0, right: 8),
+                    child: Column(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        const SizedBox(
+                          height: 5,
+                        ),
+                        Text("Linux",
                             style: TextStyle(
                               fontWeight: FontWeight.w600,
                               fontSize: 10,

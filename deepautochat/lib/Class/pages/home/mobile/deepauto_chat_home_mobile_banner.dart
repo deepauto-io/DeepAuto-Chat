@@ -8,9 +8,8 @@ class DeepautoChatHomeDesktopHomePageMobileBanner extends StatelessWidget {
   Widget build(BuildContext context) {
     final width = MediaQuery.of(context).size.width;
     final images = [
-      "images/banner/banner_1.jpg",
-      "images/banner/banner_2.jpg",
-      "images/banner/banner_3.jpg"
+      "images/banner/banner_1.png",
+      "images/banner/banner_2.png",
     ];
     return Padding(
       padding: const EdgeInsets.only(top: 40, bottom: 30),
@@ -28,7 +27,7 @@ class DeepautoChatHomeDesktopHomePageMobileBanner extends StatelessWidget {
                     shadowColor: Colors.grey.withOpacity(0.2),
                     child: Image.asset(
                       images[i],
-                      fit: BoxFit.cover,
+                      fit: BoxFit.fitWidth,
                     ),
                   );
                 },

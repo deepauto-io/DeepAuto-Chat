@@ -5,7 +5,7 @@ import 'package:url_launcher/url_launcher.dart';
 class DeepautoChatURLUnit {
   static openGithub() {
     UrlLauncherUtil.openLauncherUtil(
-        Uri.parse("https://github.com/workpieces/etcdwp"));
+        Uri.parse("https://github.com/deepauto-io"));
   }
 
   static openTwitter() {
@@ -14,7 +14,7 @@ class DeepautoChatURLUnit {
 
   static openAPPStore() {
     UrlLauncherUtil.openLauncherUtil(
-        Uri.parse("https://apps.apple.com/cn/app/etcdwp/id1617626187?mt=12"));
+        Uri.parse("https://apps.apple.com/cn/app/id6448849923"));
   }
 
   static openDownloader() {
@@ -24,12 +24,12 @@ class DeepautoChatURLUnit {
 
   static openIssues() {
     UrlLauncherUtil.openLauncherUtil(
-        Uri.parse("https://github.com/workpieces/etcdwp/issues"));
+        Uri.parse("https://github.com/deepauto-io/DeepAuto-Chat/issues"));
   }
 
   static openDiscussions() {
     UrlLauncherUtil.openLauncherUtil(
-        Uri.parse("https://github.com/workpieces/etcdwp/discussions"));
+        Uri.parse("https://github.com/deepauto-io/DeepAuto-Chat/discussions"));
   }
 
   static openMailto() async {
@@ -42,12 +42,12 @@ class DeepautoChatURLUnit {
   }
 
   static openPrivacyPolicy() {
-    UrlLauncherUtil.openLauncherUtil(
-        Uri.parse("https://github.com/workpieces/etcdwp/wiki/privacy-en"));
+    UrlLauncherUtil.openLauncherUtil(Uri.parse(
+        "https://github.com/deepauto-io/DeepAuto-Chat/wiki/privacy-en"));
   }
 
   static openProducthunt() {
-    UrlLauncherUtil.openLauncherUtil(Uri.parse(
-        "https://www.producthunt.com/posts/etcdwp?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-etcdwp"));
+    UrlLauncherUtil.openLauncherUtil(
+        Uri.parse("https://www.producthunt.com/posts/deepauto-chat-ai"));
   }
 }

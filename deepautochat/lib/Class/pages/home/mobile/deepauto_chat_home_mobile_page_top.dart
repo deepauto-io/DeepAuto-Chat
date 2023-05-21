@@ -12,8 +12,8 @@ class DeepautoChatHomeMobilePageTop extends StatelessWidget {
     return Container(
       color: const Color(0xffffffff),
       height: height,
-      child: Column(
-        children: const [
+      child: const Column(
+        children: [
           DeepautoChatHomeMobileMenuBar(),
           DeepautoChatHomePageMobileTitle(),
           Expanded(child: DeepautoChatHomeDesktopHomePageMobileBanner())

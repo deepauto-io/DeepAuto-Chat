@@ -8,12 +8,12 @@ class DeepautoChatHomeDesktopPageTop extends StatelessWidget {
   const DeepautoChatHomeDesktopPageTop({Key? key}) : super(key: key);
   @override
   Widget build(BuildContext context) {
-    final height = MediaQuery.of(context).size.height;
+    final height = MediaQuery.of(context).size.height * 1.5;
     return Container(
       color: const Color(0xffffffff),
       height: height,
-      child: Column(
-        children: const [
+      child: const Column(
+        children: [
           DeepautoChatHomeDesktopMenuBar(),
           DeepautoChatHomePageTitle(),
           Expanded(child: DeepautoChatHomeDesktopHomePageBanner())

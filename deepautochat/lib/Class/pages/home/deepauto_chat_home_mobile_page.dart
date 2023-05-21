@@ -7,13 +7,13 @@ class DeepautoChatHomeMobilePage extends StatelessWidget {
   const DeepautoChatHomeMobilePage({Key? key}) : super(key: key);
   @override
   Widget build(BuildContext context) {
-    return SingleChildScrollView(
-      physics: const BouncingScrollPhysics(),
-      padding: const EdgeInsets.all(16.0),
+    return const SingleChildScrollView(
+      physics: BouncingScrollPhysics(),
+      padding: EdgeInsets.all(16.0),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         mainAxisAlignment: MainAxisAlignment.center,
-        children: const [
+        children: [
           DeepautoChatHomeMobilePageTop(),
           DeepautoChatHomeMobilePageBottom()
         ],

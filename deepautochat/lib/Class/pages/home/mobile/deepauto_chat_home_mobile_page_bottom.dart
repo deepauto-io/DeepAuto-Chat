@@ -15,13 +15,8 @@ class DeepautoChatHomeMobilePageBottom extends StatelessWidget {
     final height = MediaQuery.of(context).size.height;
     return Container(
         color: Colors.white,
-        height: height,
-        child: Column(
-          children: const [
-            Expanded(child: DeepautoChatHomeMobilePageBottomDetail()),
-            DeepautoChatHomeMobilePageBottomPrivacyRelated(),
-          ],
-        ));
+        height: 300,
+        child: const DeepautoChatHomeMobilePageBottomPrivacyRelated());
   }
 }
 
@@ -146,7 +141,7 @@ class DeepautoChatHomeMobilePageBottomPrivacyRelated extends StatelessWidget {
             const SizedBox(height: 15),
             Center(
               child: Text(
-                  "Etcd is a trademark of Etcd Ltd. Etcd Ltd reserves any rights therein. Any use of the etcdwp Application is for informational purposes \n only and does not imply any sponsorship, endorsement, or affiliation between Etcd and the etcdwp Application Program.\n\n Copyright © Beijing Xiadat Technology Co.,Ltd. All Rights",
+                  "DeepAuto Chat an AI chat application based on GPT-4!\n\n Copyright © Beijing Xiadat Technology Co.,Ltd. All Rights",
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontWeight: FontWeight.w400,

@@ -26,7 +26,7 @@ class DeepautoChatHomeDesktopMenuBar extends StatelessWidget {
               ),
               InkWell(
                 borderRadius: BorderRadius.circular((8.0)),
-                child: Text("etcdwp",
+                child: Text("Deepauto Chat",
                     style: GoogleFonts.sourceSerifPro(
                       textStyle: const TextStyle(
                         fontWeight: FontWeight.w700,
@@ -36,24 +36,6 @@ class DeepautoChatHomeDesktopMenuBar extends StatelessWidget {
                     )),
               ),
               const Spacer(),
-              // Container(
-              //   height: 50,
-              //   width: 100,
-              //   decoration: BoxDecoration(
-              //     color: const Color(0x72f1f1f1),
-              //     shape: BoxShape.rectangle,
-              //     borderRadius: BorderRadius.circular((8.0)),
-              //   ),
-              //   child: InkWell(
-              //     borderRadius:BorderRadius.circular((8.0)),
-              //     onTap: (){
-              //
-              //     },
-              //     child:
-              //     Center(
-              //       child: Image.asset("images/icon/twitter.png"),
-              //     ),),
-              // ),
               const SizedBox(
                 width: 15,
               ),

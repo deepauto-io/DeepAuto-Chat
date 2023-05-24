@@ -141,7 +141,7 @@ class DeepautoChatHomeDesktopPageBottomPrivacyRelated extends StatelessWidget {
             const SizedBox(height: 30),
             Center(
               child: Text(
-                  "DeepAuto Chat an AI chat application based on GPT-4!\n\n Copyright © Beijing Xiadat Technology Co.,Ltd. All Rights",
+                  "DeepAuto Chat an AI chat application based on GPT-4!\n\n Copyright © Beijing Shenban Technology Co., Ltd. All Rights",
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontWeight: FontWeight.w400,

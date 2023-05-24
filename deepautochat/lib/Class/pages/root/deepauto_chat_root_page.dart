@@ -26,7 +26,7 @@ class _DeepautoChatWebsitesRootPageState
         splitScreenMode: true,
         builder: (context, child) {
           return GetMaterialApp(
-            title: "Deepauto Chat",
+            title: "DeepAuto Chat",
             initialRoute: DeepautoChatWebsitesPagesRouter.initial,
             initialBinding: DeepautoChatWebsitesBinding(),
             getPages: DeepautoChatWebsitesPagesRouter.routes,

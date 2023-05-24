@@ -145,7 +145,7 @@ class DeepautoChatHomeDesktopPageBottomPrivacyRelated extends StatelessWidget {
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontWeight: FontWeight.w400,
-                    fontSize: 10,
+                    fontSize: 15,
                     color: const Color(0xB2000000),
                     fontFamily: TextStyleConstant.fontFamily,
                   )),

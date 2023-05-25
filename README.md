@@ -4,6 +4,7 @@
 
 What's more, **DeepAuto Chat is free 💰 to download**! Don't hesitate, download it from the App Store now and try it out!
 
+**Chrome or Safari**, please visit the web address: [https:ai.deepauto.chat](ai.deepauto.chat)
 
 [![Download on the App Store](https://github.com/DeepautoChat/deepauto.chat/blob/master/logo/download.svg)](https://apps.apple.com/cn/app/deepauto-chat-%E6%B7%B1%E5%BA%A6%E8%87%AA%E5%8A%A8%E5%8C%96ai%E5%AF%B9%E8%AF%9D%E6%9C%BA%E5%99%A8%E4%BA%BA/id6448849923)
 

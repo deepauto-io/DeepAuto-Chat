@@ -4,6 +4,8 @@
 
 What's more, **DeepAuto Chat is free to download!** Don't hesitate, download it now and try it out!
 
+---
+
 ![screen_info](https://github.com/DeepautoChat/deepauto.chat/blob/master/logo/screen_info.png)
 
 ## Supported Platforms

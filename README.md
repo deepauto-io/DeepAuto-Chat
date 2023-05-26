@@ -27,7 +27,7 @@ Once the installation is complete, you can launch DeepAuto Chat and enjoy intell
 For Windows users, follow these steps to download and install DeepAuto Chat:
 
 1. Visit the download page of DeepAuto Chat.
-2. Download the compiled installer of Medis for Windows.
+2. Download the compiled installer of [Medis for Windows](https://github.com/deepauto-io/DeepAuto-Chat/releases).
 3. Run the installer and follow the on-screen instructions to complete the installation.
 
 Once installed, launch DeepAuto Chat and enjoy the benefits of intelligent conversation.
@@ -42,4 +42,4 @@ To download and install DeepAuto Chat on Linux, use the following steps:
 4. Run the installer using the appropriate command for your Linux distribution.
 5. Follow the on-screen instructions to complete the installation.
 
-Don't miss out on the opportunity to experience the power of AI chat with DeepAuto Chat!
+*Don't miss out on the opportunity to experience the power of AI chat with DeepAuto Chat!*
